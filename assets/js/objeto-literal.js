@@ -45,7 +45,7 @@ personaje.nombre = 'Sr. Stark';
 console.log(personaje);
 
 
-//Obteniendo las propiedas en un array
+//Obteniendo las propiedadess en un array
 
 const propiedades = Object.getOwnPropertyNames(personaje);
 
